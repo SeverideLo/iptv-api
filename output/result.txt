@@ -1,13 +1,11 @@
 🕘️更新时间,#genre#
-2025-01-17 18:28:54,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源
+2025-01-18 06:22:37,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源
 🌊港·澳·台,#genre#
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源
-纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源
 
@@ -30,7 +28,6 @@ CCTV-1,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226670/in
 CCTV-1,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226733/index.m3u8$订阅源-IPv6
 CCTV-1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8$订阅源-IPv6
 CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8$订阅源
-CCTV-1,http://219.139.42.24:8001/hls/1/index.m3u8$订阅源
 CCTV-1,http://113.140.86.162:8009/hls/501/index.m3u8$订阅源
 CCTV-2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221225588/index.m3u8$订阅源-IPv6
 CCTV-2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8?$订阅源-IPv6
