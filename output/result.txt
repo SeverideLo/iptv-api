@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-01-28 06:21:29,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3$订阅源-IPv6
+2025-01-28 18:28:46,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3$订阅源-IPv6
 🌊港·澳·台,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3$订阅源-IPv6
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$订阅源-IPv6
@@ -25,6 +25,7 @@
 深圳卫视,http://[2409:8087:1a0a:df::4037]:80/wh7f454c46tw2706720003_917179827/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8?icpid=88888888&RTS=1713969535&from=4&hms_devid=1211&online=1713969535&vqe=3$订阅源-IPv6
 深圳卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009227/1.m3u8$订阅源-IPv6
 深圳卫视,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000002116/1.m3u8?channel-id=wasusyt&Contentid=6000000001000002116&livemode=1&stbId=3$订阅源-IPv6
+深圳卫视,http://tvpull.careryun.com/tv/cn_szws.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226670/index.m3u8$订阅源-IPv6
